@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_tambah"
+            android:icon="@drawable/nav_tambah"
+            android:title="Tambah Data" />
+        <item
+            android:id="@+id/nav_edit"
+            android:icon="@drawable/nav_edit"
+            android:title="Edit Data" />
+        <item
+            android:id="@+id/nav_proses"
+            android:icon="@drawable/nav_proses"
+            android:title="Proses Data" />
+        <item
+            android:id="@+id/nav_input"
+            android:icon="@drawable/nav_input"
+            android:title="Input Laporan" />
+    </group>
+
+    <item android:title="Navigasi">
+        <menu>
+            <item
+                android:id="@+id/nav_beranda"
+                android:icon="@drawable/nav_home"
+                android:title="Beranda" />
+            <item
+                android:id="@+id/nav_kembali"
+                android:icon="@drawable/nav_back"
+                android:title="Kembali" />
+        </menu>
+    </item>
+
+
+</menu>

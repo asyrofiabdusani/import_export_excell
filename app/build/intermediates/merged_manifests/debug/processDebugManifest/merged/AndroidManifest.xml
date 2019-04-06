@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.asyrofiabdusani.ranknasapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/cover"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/cover"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.asyrofiabdusani.ranknasapp.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.asyrofiabdusani.ranknasapp.EditData.EditActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asyrofiabdusani.ranknasapp.EksportData.EksportActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asyrofiabdusani.ranknasapp.ImportData.ImportActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asyrofiabdusani.ranknasapp.ProsesData.ProsesActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asyrofiabdusani.ranknasapp.TambahData.TambahActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.asyrofiabdusani.ranknasapp.InputLaporan.InputActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.asyrofiabdusani.ranknasapp.EditData.ListNasabahEditActivity" />
+        <activity android:name="com.example.asyrofiabdusani.ranknasapp.Search.SearchEditActivity" />
+        <activity android:name="com.example.asyrofiabdusani.ranknasapp.InputLaporan.ListNasabahInputActivity" />
+        <activity android:name="com.example.asyrofiabdusani.ranknasapp.Search.SearchInputActivity" />
+        <activity
+            android:name="com.example.asyrofiabdusani.ranknasapp.ProsesData.RincianDataActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.asyrofiabdusani.ranknasapp.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.0.0-beta1" />
+    </application>
+
+</manifest>

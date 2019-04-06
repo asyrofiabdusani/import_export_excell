@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RANKNASAPP</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="banyak_fasilitas">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="bi_checking">
+        <item>Tidak Bermasalah</item>
+        <item>Bermasalah</item>
+    </string-array>
+    <string-array name="domisili">
+        <item>Dalam Kota</item>
+        <item>Luar Kota</item>
+    </string-array>
+    <string-array name="jenis_pekerjaan">
+        <item>Karyawan Kontrak</item>
+        <item>Karyawan Tetap</item>
+        <item>Pengusaha</item>
+    </string-array>
+    <string name="title_activity_list_nasabah_edit">ListNasabahEditActivity</string>
+</resources>

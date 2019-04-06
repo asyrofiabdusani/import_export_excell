@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu Jan 17 15:11:39 ICT 2019
+1.base=C\:\\Android\\Project\\RankNasApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.path=classes3.dex
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Android\\Project\\RankNasApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.set=DEX
+2.set=DEX
+1.baseType=DIRECTORY
+3.path=classes4.dex
+count=4
+1.set=DEX
+0.path=classes2.dex
+3.base=C\:\\Android\\Project\\RankNasApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.set=DEX
+0.base=C\:\\Android\\Project\\RankNasApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.baseType=DIRECTORY
+1.path=classes.dex

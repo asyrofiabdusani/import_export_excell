@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.asyrofiabdusani.ranknasapp.ImportData.ImportActivity"
+    tools:showIn="@layout/app_bar_import"
+    style="@style/header_space"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/relLayout">
+
+        <Button
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnUpDirectory"
+            android:text="dir up"
+            android:background="@android:color/holo_blue_dark"
+            android:textColor="@android:color/white"
+            style="@style/button"
+            android:fontFamily="serif"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+        <Button
+            android:layout_marginRight="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/button"
+            android:fontFamily="serif"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:id="@+id/btnViewSDCard"
+            android:text="Import"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/holo_green_light"
+            android:textColor="@android:color/white"/>
+    </RelativeLayout>
+    <ListView
+        android:layout_below="@+id/relLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/lvInternalStorage"
+        android:layout_marginTop="17dp"></ListView>
+
+</LinearLayout>

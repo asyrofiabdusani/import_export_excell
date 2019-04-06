@@ -1,0 +1,2 @@
+# Referenced at C:\Android\Project\RankNasApp\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }

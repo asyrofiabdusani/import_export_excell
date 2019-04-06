@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.asyrofiabdusani.ranknasapp">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/cover"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/cover"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".EditData.EditActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EksportData.EksportActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ImportData.ImportActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ProsesData.ProsesActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".TambahData.TambahActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".InputLaporan.InputActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".EditData.ListNasabahEditActivity" />
+        <activity android:name=".Search.SearchEditActivity" />
+        <activity android:name=".InputLaporan.ListNasabahInputActivity" />
+        <activity android:name=".Search.SearchInputActivity" />
+        <activity
+            android:name=".ProsesData.RincianDataActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".LoginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

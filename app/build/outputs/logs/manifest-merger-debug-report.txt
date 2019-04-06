@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\bc458ec0b779e6e494ea96120646e7f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\3cf61bdc7a52c36f34e4bf9b75d4e463\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b22d104716f66398da648aa33da3fd2e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\225736a1ba53428a0d3ae476f14a023c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\0b5da7687d1c05b6b85f2c6286f24742\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2da62b6e5b38cf7543a1b9c430b0c025\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f9fe20ddea321d70733c9664f1bf8a78\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\7dfaefbf66f6472efc230cb33bbecccd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\4013631c019bae18a039f37a3ede24cf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\f7b504f917c987ea61fb33009dd5d9e1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\7bcee45944c8f0f829a120cba2bbbb73\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\68cc24058030ed221d8c5e588282e461\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\1e47e37609e93371440a7d15af68e8ac\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:1-57:12
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.STORAGE
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:7:22-77
+application
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:9:5-55:19
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\3cf61bdc7a52c36f34e4bf9b75d4e463\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\3cf61bdc7a52c36f34e4bf9b75d4e463\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b22d104716f66398da648aa33da3fd2e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b22d104716f66398da648aa33da3fd2e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\225736a1ba53428a0d3ae476f14a023c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\225736a1ba53428a0d3ae476f14a023c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\0b5da7687d1c05b6b85f2c6286f24742\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\0b5da7687d1c05b6b85f2c6286f24742\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2da62b6e5b38cf7543a1b9c430b0c025\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2da62b6e5b38cf7543a1b9c430b0c025\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f9fe20ddea321d70733c9664f1bf8a78\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f9fe20ddea321d70733c9664f1bf8a78\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\7dfaefbf66f6472efc230cb33bbecccd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\7dfaefbf66f6472efc230cb33bbecccd\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\4013631c019bae18a039f37a3ede24cf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\4013631c019bae18a039f37a3ede24cf\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\f7b504f917c987ea61fb33009dd5d9e1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\f7b504f917c987ea61fb33009dd5d9e1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\7bcee45944c8f0f829a120cba2bbbb73\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\7bcee45944c8f0f829a120cba2bbbb73\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\68cc24058030ed221d8c5e588282e461\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\68cc24058030ed221d8c5e588282e461\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\1e47e37609e93371440a7d15af68e8ac\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\1e47e37609e93371440a7d15af68e8ac\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:13:9-44
+	android:icon
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:11:9-39
+	android:allowBackup
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.asyrofiabdusani.ranknasapp.MainActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.example.asyrofiabdusani.ranknasapp.EditData.EditActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:23:9-25:59
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:24:13-50
+activity#com.example.asyrofiabdusani.ranknasapp.EksportData.EksportActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:26:9-28:59
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:28:13-56
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:27:13-56
+activity#com.example.asyrofiabdusani.ranknasapp.ImportData.ImportActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:29:9-31:59
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:30:13-54
+activity#com.example.asyrofiabdusani.ranknasapp.ProsesData.ProsesActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:32:9-34:59
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:33:13-54
+activity#com.example.asyrofiabdusani.ranknasapp.TambahData.TambahActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:35:9-37:59
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:36:13-54
+activity#com.example.asyrofiabdusani.ranknasapp.InputLaporan.InputActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:38:9-40:59
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:39:13-55
+activity#com.example.asyrofiabdusani.ranknasapp.EditData.ListNasabahEditActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:41:9-70
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:41:19-67
+activity#com.example.asyrofiabdusani.ranknasapp.Search.SearchEditActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:42:9-63
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:42:19-60
+activity#com.example.asyrofiabdusani.ranknasapp.InputLaporan.ListNasabahInputActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:43:9-75
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:43:19-72
+activity#com.example.asyrofiabdusani.ranknasapp.Search.SearchInputActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:44:9-64
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:44:19-61
+activity#com.example.asyrofiabdusani.ranknasapp.ProsesData.RincianDataActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:45:9-47:59
+	android:theme
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:47:13-56
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:46:13-59
+activity#com.example.asyrofiabdusani.ranknasapp.LoginActivity
+ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml:48:19-48
+uses-sdk
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\bc458ec0b779e6e494ea96120646e7f3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\bc458ec0b779e6e494ea96120646e7f3\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\3cf61bdc7a52c36f34e4bf9b75d4e463\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\3cf61bdc7a52c36f34e4bf9b75d4e463\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b22d104716f66398da648aa33da3fd2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\b22d104716f66398da648aa33da3fd2e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\225736a1ba53428a0d3ae476f14a023c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\225736a1ba53428a0d3ae476f14a023c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\0b5da7687d1c05b6b85f2c6286f24742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\0b5da7687d1c05b6b85f2c6286f24742\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2da62b6e5b38cf7543a1b9c430b0c025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2da62b6e5b38cf7543a1b9c430b0c025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f9fe20ddea321d70733c9664f1bf8a78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f9fe20ddea321d70733c9664f1bf8a78\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\7dfaefbf66f6472efc230cb33bbecccd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\7dfaefbf66f6472efc230cb33bbecccd\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\4013631c019bae18a039f37a3ede24cf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\4013631c019bae18a039f37a3ede24cf\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\f7b504f917c987ea61fb33009dd5d9e1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\f7b504f917c987ea61fb33009dd5d9e1\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\7bcee45944c8f0f829a120cba2bbbb73\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\7bcee45944c8f0f829a120cba2bbbb73\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\68cc24058030ed221d8c5e588282e461\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\68cc24058030ed221d8c5e588282e461\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\1e47e37609e93371440a7d15af68e8ac\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\1e47e37609e93371440a7d15af68e8ac\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\Project\RankNasApp\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\3cf61bdc7a52c36f34e4bf9b75d4e463\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:appcompat-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-beta1.aar\3cf61bdc7a52c36f34e4bf9b75d4e463\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\225736a1ba53428a0d3ae476f14a023c\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-beta1.aar\225736a1ba53428a0d3ae476f14a023c\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\0b5da7687d1c05b6b85f2c6286f24742\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-beta1.aar\0b5da7687d1c05b6b85f2c6286f24742\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2da62b6e5b38cf7543a1b9c430b0c025\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-beta1.aar\2da62b6e5b38cf7543a1b9c430b0c025\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f9fe20ddea321d70733c9664f1bf8a78\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:transition:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-beta1.aar\f9fe20ddea321d70733c9664f1bf8a78\AndroidManifest.xml:23:9-25:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\7dfaefbf66f6472efc230cb33bbecccd\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-v4:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-beta1.aar\7dfaefbf66f6472efc230cb33bbecccd\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\4013631c019bae18a039f37a3ede24cf\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-media-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-beta1.aar\4013631c019bae18a039f37a3ede24cf\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\f7b504f917c987ea61fb33009dd5d9e1\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-fragment:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-beta1.aar\f7b504f917c987ea61fb33009dd5d9e1\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\7bcee45944c8f0f829a120cba2bbbb73\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-utils:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-beta1.aar\7bcee45944c8f0f829a120cba2bbbb73\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\68cc24058030ed221d8c5e588282e461\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-core-ui:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-beta1.aar\68cc24058030ed221d8c5e588282e461\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\1e47e37609e93371440a7d15af68e8ac\AndroidManifest.xml:26:9-28:44
+MERGED from [com.android.support:support-compat:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-beta1.aar\1e47e37609e93371440a7d15af68e8ac\AndroidManifest.xml:26:9-28:44
+	android:value
+		ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:28:13-41
+	android:name
+		ADDED from [com.android.support:design:26.0.0-beta1] C:\Users\Asyrofi Abdusani\.gradle\caches\transforms-1\files-1.1\design-26.0.0-beta1.aar\2b48b59b6d8f4c3fa3639fe41ac9e1d4\AndroidManifest.xml:27:13-51
